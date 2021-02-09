@@ -37,6 +37,15 @@ A wordlist directory is added in order to use the most classic and most used com
 
 For any problem, you can open an issue directly on the github directory.
 
+* # Supported services : 
+
+ * FTP on 21/tcp
+ * SSH on 22/tcp
+ * Telnet on 23/tcp
+ * MySQL on 3306/tcp
+
+As and when different services will be added to make this script more complete.
+
 * ## Disclamers :
 Odin is a tool reserved for **professional** or **educational** use ! Under no circumstances should it be used for the purpose of harming others or a system that does
 not belong to you. As a reminder, **any intrusion or attempted intrusion is punishable by law !**
